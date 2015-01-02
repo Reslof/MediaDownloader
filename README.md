@@ -3,6 +3,9 @@ MediaDownloader
 
 C# and WinForms wrapper for youtube-dl and ffmpeg for easy audio/video downloading.
 
+[Download](https://github.com/Reslof/MediaDownloader/blob/master/MediaDownloader.exe?raw=true)
+----
+
 Requirements
 -----
 - Youtube-dl **Standalone EXE**: https://rg3.github.io/youtube-dl/download.html
