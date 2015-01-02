@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.pdb
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.pdb
