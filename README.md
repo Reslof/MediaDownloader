@@ -11,7 +11,9 @@ Requirements
 - Youtube-dl **Standalone EXE**: https://rg3.github.io/youtube-dl/download.html
 - ffmpeg/ffmprobe **32-bit Static Version**: http://ffmpeg.zeranoe.com/builds/
 
-Both of these programs must be in your PATH variable.
+Both of these programs must be in your PATH variable or accessible to this program.
+
+![UI](https://raw.githubusercontent.com/Reslof/MediaDownloader/master/MediaDownloader/UI.png)
 
 Note
 -----
