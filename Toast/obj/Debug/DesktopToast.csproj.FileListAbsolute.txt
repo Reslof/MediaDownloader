@@ -1,0 +1,36 @@
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\DesktopToast.xml
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\Windows.winmd
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\obj\Debug\DesktopToast.csproj.CopyComplete
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\obj\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Desktop\DesktopToast\DesktopToast\obj\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\DesktopToast.xml
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\DesktopToast.dll.CodeAnalysisLog.xml
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\DesktopToast.dll.lastcodeanalysissucceeded
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\obj\Debug\DesktopToast.csprojAssemblyReference.cache
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\obj\Debug\DesktopToast.csproj.CopyComplete
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\obj\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Desktop\Windows 10 Toast\DesktopToast\obj\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\bin\Debug\DesktopToast.xml
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\bin\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\bin\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\obj\Debug\DesktopToast.csproj.CopyComplete
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\obj\Debug\DesktopToast.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\obj\Debug\DesktopToast.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\DesktopToast\obj\Debug\DesktopToast.csprojAssemblyReference.cache
+F:\repos\MediaDownloader\Toast\bin\Debug\DesktopToast.xml
+F:\repos\MediaDownloader\Toast\bin\Debug\DesktopToast.dll
+F:\repos\MediaDownloader\Toast\bin\Debug\DesktopToast.pdb
+F:\repos\MediaDownloader\Toast\obj\Debug\DesktopToast.csproj.AssemblyReference.cache
+F:\repos\MediaDownloader\Toast\obj\Debug\DesktopToast.csproj.CoreCompileInputs.cache
+F:\repos\MediaDownloader\Toast\obj\Debug\DesktopToast.dll
+F:\repos\MediaDownloader\Toast\obj\Debug\DesktopToast.pdb

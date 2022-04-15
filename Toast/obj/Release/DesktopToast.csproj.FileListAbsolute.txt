@@ -1,0 +1,15 @@
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\bin\Release\DesktopToast.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csprojAssemblyReference.cache
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CopyComplete
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.dll
+C:\Users\mhall\Desktop\MediaDownloader\Toast\obj\Release\DesktopToast.csprojAssemblyReference.cache
+C:\Users\mhall\Desktop\MediaDownloader\Toast\obj\Release\DesktopToast.dll
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\bin\Release\DesktopToast.dll
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csprojAssemblyReference.cache
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CopyComplete
+C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.dll
