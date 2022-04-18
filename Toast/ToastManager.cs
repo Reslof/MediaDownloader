@@ -56,7 +56,7 @@ namespace DesktopToast
         /// </summary>
         /// <param name="request"></param>
         /// <param name="expire"></param>
-        public async static void Show(ToastRequest request, int expire)
+        public static async void Show(ToastRequest request, int expire)
         {
             if (request == null)
             {

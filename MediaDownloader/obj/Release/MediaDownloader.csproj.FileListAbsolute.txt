@@ -85,6 +85,5 @@ F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.MediaForm.r
 F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
 F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
 F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CoreCompileInputs.cache
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CopyComplete
 F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
-F:\repos\MediaDownloader\Release\ffmpeg.exe
-F:\repos\MediaDownloader\Release\youtube-dl.exe

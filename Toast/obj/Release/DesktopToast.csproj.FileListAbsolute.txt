@@ -13,3 +13,7 @@ C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj
 C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CopyComplete
 C:\Users\Mike\Source\repos\MediaDownloader\Toast\obj\Release\DesktopToast.dll
+F:\repos\MediaDownloader\Release\DesktopToast.dll
+F:\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.AssemblyReference.cache
+F:\repos\MediaDownloader\Toast\obj\Release\DesktopToast.csproj.CoreCompileInputs.cache
+F:\repos\MediaDownloader\Toast\obj\Release\DesktopToast.dll

@@ -1,6 +1,6 @@
 ﻿internal class ManagementObjectSearcher
 {
-    private object p;
+    private readonly object p;
 
     public ManagementObjectSearcher(object p, string v)
     {

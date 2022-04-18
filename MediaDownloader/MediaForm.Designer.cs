@@ -47,11 +47,12 @@
             this.label5 = new System.Windows.Forms.Label();
             this.bulkTextBox = new System.Windows.Forms.TextBox();
             this.fileBrowserButton = new System.Windows.Forms.Button();
-            this.DownloadButton = new System.Windows.Forms.Button();
-            this.ExitButton = new System.Windows.Forms.Button();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.label4 = new System.Windows.Forms.Label();
             this.FileNameBox = new System.Windows.Forms.TextBox();
+            this.DownloadButton = new System.Windows.Forms.Button();
+            this.ExitButton = new System.Windows.Forms.Button();
+            this.buttonHelp = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -212,7 +213,7 @@
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(78, 26);
+            this.label1.Size = new System.Drawing.Size(79, 26);
             this.label1.TabIndex = 1;
             this.label1.Text = "Video URL: ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -220,14 +221,15 @@
             // urlTextBox
             // 
             this.urlTextBox.AcceptsTab = true;
-            this.urlTextBox.Location = new System.Drawing.Point(87, 3);
+            this.urlTextBox.Location = new System.Drawing.Point(88, 3);
             this.urlTextBox.Name = "urlTextBox";
-            this.urlTextBox.Size = new System.Drawing.Size(381, 20);
+            this.urlTextBox.Size = new System.Drawing.Size(380, 20);
             this.urlTextBox.TabIndex = 0;
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.flowLayoutPanel1.Controls.Add(this.buttonHelp);
             this.flowLayoutPanel1.Controls.Add(this.label5);
             this.flowLayoutPanel1.Controls.Add(this.bulkTextBox);
             this.flowLayoutPanel1.Controls.Add(this.fileBrowserButton);
@@ -241,7 +243,7 @@
             // 
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(3, 8);
+            this.label5.Location = new System.Drawing.Point(43, 8);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(82, 13);
             this.label5.TabIndex = 8;
@@ -250,43 +252,20 @@
             // bulkTextBox
             // 
             this.bulkTextBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.bulkTextBox.Location = new System.Drawing.Point(91, 4);
+            this.bulkTextBox.Location = new System.Drawing.Point(131, 4);
             this.bulkTextBox.Name = "bulkTextBox";
             this.bulkTextBox.ReadOnly = true;
-            this.bulkTextBox.Size = new System.Drawing.Size(299, 20);
+            this.bulkTextBox.Size = new System.Drawing.Size(257, 20);
             this.bulkTextBox.TabIndex = 7;
             // 
             // fileBrowserButton
             // 
-            this.fileBrowserButton.Location = new System.Drawing.Point(396, 3);
+            this.fileBrowserButton.Location = new System.Drawing.Point(394, 3);
             this.fileBrowserButton.Name = "fileBrowserButton";
             this.fileBrowserButton.Size = new System.Drawing.Size(75, 23);
             this.fileBrowserButton.TabIndex = 9;
             this.fileBrowserButton.Text = "Browse";
             this.fileBrowserButton.Click += new System.EventHandler(this.fileBrowserButton_Click);
-            // 
-            // DownloadButton
-            // 
-            this.DownloadButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.DownloadButton.Location = new System.Drawing.Point(313, 3);
-            this.DownloadButton.Name = "DownloadButton";
-            this.DownloadButton.Size = new System.Drawing.Size(75, 23);
-            this.DownloadButton.TabIndex = 2;
-            this.DownloadButton.Text = "&Download";
-            this.DownloadButton.UseVisualStyleBackColor = true;
-            this.DownloadButton.Click += new System.EventHandler(this.DownloadButton_Click);
-            // 
-            // ExitButton
-            // 
-            this.ExitButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.ExitButton.Enabled = false;
-            this.ExitButton.Location = new System.Drawing.Point(394, 3);
-            this.ExitButton.Name = "ExitButton";
-            this.ExitButton.Size = new System.Drawing.Size(75, 23);
-            this.ExitButton.TabIndex = 3;
-            this.ExitButton.Text = "&Exit";
-            this.ExitButton.UseVisualStyleBackColor = true;
-            this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
             // 
             // flowLayoutPanel2
             // 
@@ -317,6 +296,38 @@
             this.FileNameBox.Name = "FileNameBox";
             this.FileNameBox.Size = new System.Drawing.Size(165, 20);
             this.FileNameBox.TabIndex = 7;
+            // 
+            // DownloadButton
+            // 
+            this.DownloadButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.DownloadButton.Location = new System.Drawing.Point(313, 3);
+            this.DownloadButton.Name = "DownloadButton";
+            this.DownloadButton.Size = new System.Drawing.Size(75, 23);
+            this.DownloadButton.TabIndex = 2;
+            this.DownloadButton.Text = "&Download";
+            this.DownloadButton.UseVisualStyleBackColor = true;
+            this.DownloadButton.Click += new System.EventHandler(this.DownloadButton_Click);
+            // 
+            // ExitButton
+            // 
+            this.ExitButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.ExitButton.Enabled = false;
+            this.ExitButton.Location = new System.Drawing.Point(394, 3);
+            this.ExitButton.Name = "ExitButton";
+            this.ExitButton.Size = new System.Drawing.Size(75, 23);
+            this.ExitButton.TabIndex = 3;
+            this.ExitButton.Text = "&Exit";
+            this.ExitButton.UseVisualStyleBackColor = true;
+            this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
+            // 
+            // buttonHelp
+            // 
+            this.buttonHelp.Location = new System.Drawing.Point(3, 3);
+            this.buttonHelp.Name = "buttonHelp";
+            this.buttonHelp.Size = new System.Drawing.Size(34, 23);
+            this.buttonHelp.TabIndex = 10;
+            this.buttonHelp.Text = "?";
+            this.buttonHelp.Click += new System.EventHandler(this.buttonHelp_Click);
             // 
             // MediaForm
             // 
@@ -374,6 +385,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox bulkTextBox;
         private System.Windows.Forms.Button fileBrowserButton;
+        private System.Windows.Forms.Button buttonHelp;
     }
 }
 
