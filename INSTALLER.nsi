@@ -20,7 +20,7 @@ SetCompressor "bzip2"
 ; Attributes
 Name "MediaDownloader"
 OutFile "MediaDownloader_Setup.exe"
-InstallDir "$LOCALAPPDATA\MediaDownloader"
+InstallDir "$LOCALAPPDATA\MediaDownloader" ; LOCALAPPDATA|APPDATA|$PROGRAMFILES|$PROGRAMFILES32|$PROGRAMFILES64
 InstallDirRegKey HKCU "Software\xCONFLiCTiONx\MediaDownloader" ""
 RequestExecutionLevel user ; user|highest|admin
 

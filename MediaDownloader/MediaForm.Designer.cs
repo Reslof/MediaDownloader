@@ -44,6 +44,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.urlTextBox = new System.Windows.Forms.TextBox();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.buttonHelp = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.bulkTextBox = new System.Windows.Forms.TextBox();
             this.fileBrowserButton = new System.Windows.Forms.Button();
@@ -52,7 +53,6 @@
             this.FileNameBox = new System.Windows.Forms.TextBox();
             this.DownloadButton = new System.Windows.Forms.Button();
             this.ExitButton = new System.Windows.Forms.Button();
-            this.buttonHelp = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -239,6 +239,15 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(477, 60);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
+            // buttonHelp
+            // 
+            this.buttonHelp.Location = new System.Drawing.Point(3, 3);
+            this.buttonHelp.Name = "buttonHelp";
+            this.buttonHelp.Size = new System.Drawing.Size(34, 23);
+            this.buttonHelp.TabIndex = 10;
+            this.buttonHelp.Text = "?";
+            this.buttonHelp.Click += new System.EventHandler(this.buttonHelp_Click);
+            // 
             // label5
             // 
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Left;
@@ -319,15 +328,6 @@
             this.ExitButton.Text = "&Exit";
             this.ExitButton.UseVisualStyleBackColor = true;
             this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
-            // 
-            // buttonHelp
-            // 
-            this.buttonHelp.Location = new System.Drawing.Point(3, 3);
-            this.buttonHelp.Name = "buttonHelp";
-            this.buttonHelp.Size = new System.Drawing.Size(34, 23);
-            this.buttonHelp.TabIndex = 10;
-            this.buttonHelp.Text = "?";
-            this.buttonHelp.Click += new System.EventHandler(this.buttonHelp_Click);
             // 
             // MediaForm
             // 

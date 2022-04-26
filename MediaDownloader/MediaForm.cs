@@ -24,6 +24,42 @@ namespace MediaDownloader
 
             InitializeComponent();
 
+            urlTextBox.KeyDown += UrlTextBox_KeyDown;
+            FileNameBox.KeyDown += UrlTextBox_KeyDown;
+
+            Shown += Form1_Shown;
+        }
+
+        private async void Form1_Shown(object sender, EventArgs e)
+        {
+            await CheckComponents();
+
+            LaunchYoutubedlUpdate();
+        }
+
+        private async Task DownloadFileAsync(string url, string location)
+        {
+            try
+            {
+                using (WebClient webClient = new WebClient())
+                {
+                    webClient.DownloadProgressChanged += (s, e) =>
+                    {
+                        outputBox.Clear();
+                        AppendText("Downloading: " + e.ProgressPercentage.ToString() + "%");
+                    };
+                    await webClient.DownloadFileTaskAsync(new Uri(url), location);
+                }
+            }
+            catch (Exception ex)
+            {
+                EasyLogger.Error(ex);
+                AppendText(ex.Message);
+            }
+        }
+
+        private async Task CheckComponents()
+        {
             try
             {
                 if (!File.Exists(AppDomain.CurrentDomain.BaseDirectory + "ffmpeg.exe"))
@@ -31,10 +67,10 @@ namespace MediaDownloader
                     DialogResult dialogResult = MessageBox.Show("Would you like me to download ffmpeg.exe for you?" + Environment.NewLine + Environment.NewLine + "This may take a moment depending on how fast your download speed is.", "FFMPEG", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     if (dialogResult == DialogResult.Yes)
                     {
-                        using (var client = new WebClient())
-                        {
-                            client.DownloadFile("https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip", AppDomain.CurrentDomain.BaseDirectory + "ffmpeg-release-essentials.zip");
-                        }
+                        await Task.WhenAll(DownloadFileAsync("https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip", AppDomain.CurrentDomain.BaseDirectory + "ffmpeg-release-essentials.zip"));
+
+                        outputBox.Clear();
+                        AppendText("Extracting ffmpeg...");
 
                         using (ZipArchive archive = ZipFile.OpenRead(AppDomain.CurrentDomain.BaseDirectory + "ffmpeg-release-essentials.zip"))
                         {
@@ -72,6 +108,9 @@ namespace MediaDownloader
                             EasyLogger.Error(ex);
                             AppendText(ex.Message);
                         }
+
+                        outputBox.Clear();
+                        AppendText("ffmpeg.exe was downloaded and extracted successfully...");
                     }
                 }
 
@@ -80,10 +119,10 @@ namespace MediaDownloader
                     DialogResult dialogResult = MessageBox.Show("Would you like me to download youtube-dl.exe for you?", "YOUTUBE-DL", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     if (dialogResult == DialogResult.Yes)
                     {
-                        using (var client = new WebClient())
-                        {
-                            client.DownloadFile("https://yt-dl.org/downloads/latest/youtube-dl.exe", AppDomain.CurrentDomain.BaseDirectory + "youtube-dl.exe");
-                        }
+                        await Task.WhenAll(DownloadFileAsync("https://yt-dl.org/downloads/latest/youtube-dl.exe", AppDomain.CurrentDomain.BaseDirectory + "youtube-dl.exe"));
+
+                        outputBox.Clear();
+                        AppendText("youtube-dl.exe was downloaded successfully...");
                     }
                 }
             }
@@ -92,16 +131,6 @@ namespace MediaDownloader
                 EasyLogger.Error(ex);
                 AppendText(ex.Message);
             }
-
-            urlTextBox.KeyDown += UrlTextBox_KeyDown;
-            FileNameBox.KeyDown += UrlTextBox_KeyDown;
-
-            Shown += Form1_Shown;
-        }
-
-        private void Form1_Shown(object sender, EventArgs e)
-        {
-            LaunchYoutubedlUpdate();
         }
 
         private void LaunchYoutubedlUpdate()
