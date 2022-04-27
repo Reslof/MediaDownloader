@@ -14,10 +14,6 @@ Feel free to donate to my [PayPal.Me/xCONFLiCTiONx](https://PayPal.Me/xCONFLiCTi
 
 [![https://raw.githubusercontent.com/xCONFLiCTiONx/MediaDownloader/master/PayPalButton.png](PayPalButton.png)](https://www.paypal.com/donate/?business=GKLE6HYQE46SA&no_recurring=0&item_name=xCONFLiCTiONx&currency_code=USD)
 
-![https://raw.githubusercontent.com/xCONFLiCTiONx/MediaDownloader/master/QRCode.png](QRCode.png)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=GKLE6HYQE46SA&no_recurring=0&item_name=xCONFLiCTiONx&currency_code=USD)
-
 ## Credits
 
 Original developer: [Reslof / MediaDownloader](https://github.com/Reslof/MediaDownloader)
