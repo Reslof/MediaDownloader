@@ -14,4 +14,4 @@ Feel free to donate to my [PayPal.Me/xCONFLiCTiONx](https://PayPal.Me/xCONFLiCTi
 
 ## Credits
 
-Original developer: [Reslof / MediaDownloader](https://github.com/Reslof/MediaDownloader)
+Original developer: [Reslof/MediaDownloader](https://github.com/Reslof/MediaDownloader)
