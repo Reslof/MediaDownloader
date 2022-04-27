@@ -45,10 +45,13 @@ VIAddVersionKey "FileVersion" "${SETUP_VERSION}"
 ;-------------------------------------------------------------------------------
 ; Installer Pages
 !insertmacro MUI_PAGE_WELCOME
-;!insertmacro MUI_PAGE_LICENSE "${NSISDIR}\Docs\Modern UI\License.txt"
+!insertmacro MUI_PAGE_LICENSE "LICENSE"
 !insertmacro MUI_PAGE_COMPONENTS
 !insertmacro MUI_PAGE_DIRECTORY
 !insertmacro MUI_PAGE_INSTFILES
+!define MUI_FINISHPAGE_RUN
+!define MUI_FINISHPAGE_RUN_TEXT "Start ${PRODUCT_NAME}"
+!define MUI_FINISHPAGE_RUN_FUNCTION "LaunchSettings"
 !insertmacro MUI_PAGE_FINISH
 
 ;-------------------------------------------------------------------------------
@@ -86,6 +89,12 @@ Section "${PRODUCT_NAME}" MyApp
   CreateShortCut "$DESKTOP\${PRODUCT_NAME}.lnk" "$INSTDIR\${PRODUCT_NAME}.exe" ""
   CreateShortCut "$SMPROGRAMS\${PRODUCT_NAME}.lnk" "$INSTDIR\${PRODUCT_NAME}.exe" ""
 SectionEnd
+
+Function LaunchSettings
+  SetOutPath "$INSTDIR"
+  Exec '"$INSTDIR\${PRODUCT_NAME}.exe"'
+  Sleep 1000
+FunctionEnd
 
 ;-------------------------------------------------------------------------------
 ; Uninstaller Sections
