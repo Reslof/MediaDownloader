@@ -1,22 +1,17 @@
-MediaDownloader
-===============
+# MediaDownloader
 
 C# and WinForms wrapper for youtube-dl and ffmpeg for easy audio/video downloading.
 
-[Download](https://github.com/Reslof/MediaDownloader/blob/master/MediaDownloader.exe?raw=true)
-----
+## Download
 
-Requirements
------
-- Youtube-dl **Standalone EXE**: https://rg3.github.io/youtube-dl/download.html
-- ffmpeg/ffmprobe **32-bit Static Version**: http://ffmpeg.zeranoe.com/builds/
+[https://github.com/xCONFLiCTiONx/MediaDownloader/releases](https://github.com/xCONFLiCTiONx/MediaDownloader/releases)  
 
-Both of these programs must be in your PATH variable or accessible to this program.
+![GitHub all releases](https://img.shields.io/github/downloads/xCONFLiCTiONx/MediaDownloader/total)  [![GitHub stars](https://img.shields.io/github/stars/xCONFLiCTiONx/MediaDownloader)](https://github.com/xCONFLiCTiONx/MediaDownloader/stargazers)
 
-![UI](https://raw.githubusercontent.com/Reslof/MediaDownloader/master/MediaDownloader/UI.png)
+## Donations
 
-Note
------
+Feel free to donate to my [PayPal.Me/xCONFLiCTiONx](https://PayPal.Me/xCONFLiCTiONx) account. I work hard on these projects.
 
-URL input is currently not sanitized. This means that if you mean to download only a single video from Youtube, but paste a playlist URL you will end up downloading the entire playlist with no confirmation. 
+## Credits
 
+Original developer: [Reslof/MediaDownloader](https://github.com/Reslof/MediaDownloader)

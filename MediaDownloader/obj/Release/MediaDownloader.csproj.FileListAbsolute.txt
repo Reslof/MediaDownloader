@@ -7,3 +7,83 @@ c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloa
 c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
 c:\users\user\documents\visual studio 2013\Projects\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\bin\Release\ffmpeg.exe
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\bin\Release\youtube-dl.exe
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe.config
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csprojAssemblyReference.cache
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.pdb
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\ffmpeg.exe
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\youtube-dl.exe
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe.config
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.pdb
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+C:\Users\mhall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\bin\Release\ffmpeg.exe
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\bin\Release\youtube-dl.exe
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe.config
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\.Finished\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\ffmpeg.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\youtube-dl.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe.config
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\MediaDownloader.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\DesktopToast.dll
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\DesktopToast.pdb
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\bin\Release\DesktopToast.xml
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Release\ffmpeg.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Release\youtube-dl.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Release\MediaDownloader.exe.config
+C:\Users\Michael Hall\Source\repos\MediaDownloader\Release\MediaDownloader.exe
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csprojAssemblyReference.cache
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CopyComplete
+C:\Users\Michael Hall\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+C:\Users\mhall\Desktop\MediaDownloader\Release\ffmpeg.exe
+C:\Users\mhall\Desktop\MediaDownloader\Release\youtube-dl.exe
+C:\Users\mhall\Desktop\MediaDownloader\Release\MediaDownloader.exe.config
+C:\Users\mhall\Desktop\MediaDownloader\Release\MediaDownloader.exe
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csprojAssemblyReference.cache
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Form1.resources
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CopyComplete
+C:\Users\mhall\Desktop\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+C:\Users\Mike\Source\repos\MediaDownloader\Release\ffmpeg.exe
+C:\Users\Mike\Source\repos\MediaDownloader\Release\youtube-dl.exe
+C:\Users\Mike\Source\repos\MediaDownloader\Release\MediaDownloader.exe.config
+C:\Users\Mike\Source\repos\MediaDownloader\Release\MediaDownloader.exe
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csprojAssemblyReference.cache
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.MediaForm.resources
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CopyComplete
+C:\Users\Mike\Source\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe
+F:\repos\MediaDownloader\Release\MediaDownloader.exe.config
+F:\repos\MediaDownloader\Release\MediaDownloader.exe
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.AssemblyReference.cache
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.SuggestedBindingRedirects.cache
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.MediaForm.resources
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.Properties.Resources.resources
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.GenerateResource.cache
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CoreCompileInputs.cache
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.csproj.CopyComplete
+F:\repos\MediaDownloader\MediaDownloader\obj\Release\MediaDownloader.exe

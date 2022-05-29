@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaDownloader", "MediaDownloader\MediaDownloader.csproj", "{AA84D31A-AFFF-4631-9791-1A3A76C5B308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopToast", "Toast\DesktopToast.csproj", "{B8D704D5-FB0C-4C2D-8189-72C6649BA157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,8 +18,15 @@ Global
 		{AA84D31A-AFFF-4631-9791-1A3A76C5B308}.Debug|Any CPU.Deploy.0 = Release|Any CPU
 		{AA84D31A-AFFF-4631-9791-1A3A76C5B308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA84D31A-AFFF-4631-9791-1A3A76C5B308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D704D5-FB0C-4C2D-8189-72C6649BA157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D704D5-FB0C-4C2D-8189-72C6649BA157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D704D5-FB0C-4C2D-8189-72C6649BA157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D704D5-FB0C-4C2D-8189-72C6649BA157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27493A87-1258-4D93-90BB-FA153DB89D5D}
 	EndGlobalSection
 EndGlobal
